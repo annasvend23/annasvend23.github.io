@@ -1,8 +1,8 @@
-# annasvend23.github.io/annasvend23.github.io
-***
+# (annasvend23.github.io/annasvend23.github.io)
+
 ## Version 0.0.1
-***
-###Form validation
+
+### Form validation
 
 This project was created to demonstrate my form validation skills using RegExp.
 
