@@ -1,6 +1,6 @@
 # [annasvend23.github.io/annasvend23.github.io](https://annasvend23.github.io/annasvend23.github.io/)
 
-## Version 0.0.6
+## Version 0.0.7
 
 ### Form validation
 
